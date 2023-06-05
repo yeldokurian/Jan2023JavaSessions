@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yeldo
+ *
+ */
+module JavaTrainingSession {
+}
